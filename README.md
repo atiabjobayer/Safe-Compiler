@@ -10,10 +10,11 @@ You can run it like below:
 ``` ./run.sh /home/user/Desktop/codes 107 cpp ```
 
 Here,
-The 1st parameter is CodePath. Write the directory path where your code exists.
-The 2nd parameter is submissions ID. It is basically required for file identification. It should be numeric value. 
-    The code file should be named after this ID. Example: ```submission_{SUBMIT_ID}.cpp``` or ```submission_{SUBMIT_ID}.java```
-    The input file should follow this rule too. Input file name should be like this ```input_{SUBMIT_ID}.txt```
+The 1st parameter is ```CodePath```. Write the directory path where your code exists.
+The 2nd parameter is ```Submissions ID```. It is basically required for file identification. It should be numeric value.
+    
+The code file should be named after Submission ID. Example: ```submission_{SUBMIT_ID}.cpp``` or ```submission_{SUBMIT_ID}.java```
+The input file should follow this rule too. Input file name should be like this ```input_{SUBMIT_ID}.txt```
     
 Basically, The default source limits are:
 1. Time Limit: 3 seconds
