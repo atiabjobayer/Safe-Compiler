@@ -22,7 +22,7 @@ Basically, The default source limits are:
 3. Output Size Limit: 2 MB
 
 After running the script, It will show either ```Compilation Error``` or ```Success``` message on console.
-This script will produce another two file in the CODE_PATH named ```output_{SUBMIT_ID}``` and ```log_{SUBMIT_ID}```
+This script will produce another two file in the CODE_PATH named ```output_{SUBMIT_ID}.txt``` and ```log_{SUBMIT_ID}```
 
 If it is Compilation Error, the output file will contain the error message.
 If it is Success, the output file will contain the code output for that input file.
